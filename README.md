@@ -20,7 +20,7 @@
 
 ---
 
-### 👋 About
+### 👋 About Me
 I build AI-powered automation systems that turn ideas into reliable workflows.
 My main stack is Python for ML + automation, with an n8n-like mindset for orchestration.
 (Some of my automations have been around operational/content workflows — but the core is always AI + automation engineering.)
@@ -54,7 +54,7 @@ When a prototype becomes “real”, I’ll pin it here as a featured repo.
 </details>
 
 ---
-
+<!--
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=MrAmiram&show_icons=true&hide_title=true&hide=issues,prs&rank_icon=github"
@@ -62,7 +62,8 @@ When a prototype becomes “real”, I’ll pin it here as a featured repo.
     alt="GitHub stats"
   />
 </p>
-
-<!-- Optional (cool but less minimal): Activity graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrAmiram)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 -->
+Activity graph 
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrAmiram&bg_color=0b0f14&color=c9d1d9&title_color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
